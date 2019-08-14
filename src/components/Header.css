@@ -1,0 +1,5 @@
+header#main-header {
+    background: rgb(122, 120, 126);
+    height: 72px;
+    border-bottom: 1px solid #DDD;
+}
